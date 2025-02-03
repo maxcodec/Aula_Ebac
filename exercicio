@@ -12,7 +12,7 @@
         <input id="user" type="text" placeholder="seu usuário aqui">
         <br/>
         <label for="email">Email: </label>
-        <input id="email" type="text" placeholder="seu email aqui">
+        <input id="email" type="email" placeholder="seu email aqui">
         <br/>
         <label for="senha">Senha: </label>
         <input type="password" placeholder="sua senha aqui">
